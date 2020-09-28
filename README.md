@@ -1,11 +1,6 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+## Stock List
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Stock List project made with Laravel Framework. I made this project with my other 5 friends while on semester break last August and we managed to sell this project to some companies. Stock-List is an app where you can manage your company stock. This app provides you with features like login & register (as an admin or user), insert stock, delete stock, update stock, search stock, find activity history, add to cart, check out and make invoice, move and download the invoice into Excel, and also update and manage accounts.
 
 ## About Laravel
 
